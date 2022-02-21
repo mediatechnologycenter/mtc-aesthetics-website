@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mtc-aesthetics-website/static/css/main.21ffe46d.css",
+    "main.js": "/mtc-aesthetics-website/static/js/main.a4352284.js",
+    "static/js/787.10eea7b2.chunk.js": "/mtc-aesthetics-website/static/js/787.10eea7b2.chunk.js",
+    "index.html": "/mtc-aesthetics-website/index.html",
+    "main.21ffe46d.css.map": "/mtc-aesthetics-website/static/css/main.21ffe46d.css.map",
+    "main.a4352284.js.map": "/mtc-aesthetics-website/static/js/main.a4352284.js.map",
+    "787.10eea7b2.chunk.js.map": "/mtc-aesthetics-website/static/js/787.10eea7b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21ffe46d.css",
+    "static/js/main.a4352284.js"
+  ]
+}
