@@ -6,4 +6,4 @@ Attractive images and videos are the visual backbone of journalism and social me
 
 # Website
 
-[https://github.com/mediatechnologycenter/mtc-aesthetics-website](https://github.com/mediatechnologycenter/mtc-aesthetics-website)
+[https://mediatechnologycenter.github.io/mtc-aesthetics-website/](https://mediatechnologycenter.github.io/mtc-aesthetics-website/)
