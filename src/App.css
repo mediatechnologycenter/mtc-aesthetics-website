@@ -29,11 +29,17 @@
 }
 
 .abstract-wrapper {
-  padding-bottom:2vh;
   width: 40%;
 }
 
+.main-title-wrapper {
+  padding-block: 20;
+}
+
 .text-wrapper {
-  padding-bottom:2vh;
-  width: 50%;
+  width: 60%;
+}
+
+.title-wrapper {
+  padding-block: 1%;
 }

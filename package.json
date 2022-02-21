@@ -1,5 +1,6 @@
 {
   "name": "aesthetics-paper",
+  "homepage": "http://mediatechnologycenter.github.io/mtc-aesthetics-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
