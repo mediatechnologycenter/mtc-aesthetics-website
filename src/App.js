@@ -10,9 +10,11 @@ const abstract = `Attractive images and videos are the visual backbone of journa
 `
 
 
+
 const authors = `Marc Willhaus Media Technology Center ETH Zürich, Switzerland - marc.willhaus@inf.ethz.ch
+Daniel Vera Nieto Media Technology Center ETH Zürich, Switzerland - daniel.veranieto@inf.ethz.ch
 Clara Fernandez-Labrador Media Technology Center ETH Zürich, Switzerland - clabrador@inf.ethz.ch
-Severin Klingler Media Technology Center ETH Zürich, Switzerland - severin.klingler@inf.ethz.ch`
+Severin Klingler Media Technology Center ETH Zürich, Switzerland - severin.klingler@inf.ethz.ch,`
 
 
 function App() {
